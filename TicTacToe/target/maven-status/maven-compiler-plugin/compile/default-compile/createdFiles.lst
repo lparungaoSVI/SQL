@@ -1,0 +1,11 @@
+com\svi\config\Config.class
+com\svi\config\ConfigHeader.class
+com\svi\model\SaveRequest.class
+com\svi\main\CreateUID.class
+com\svi\main\GetHistory.class
+com\svi\main\GetUID.class
+com\svi\main\Save.class
+com\svi\dao\RecordsImpl.class
+com\svi\model\CreateUIDRequest.class
+com\svi\dao\RecordsDAO.class
+com\svi\config\ConfigInitiator.class
